@@ -1,6 +1,6 @@
 # STM32 LED Blink
 
-Bare metal LED blink project for STM32F103C8T6 (Blue Pill).
+LED blink project for STM32F103C8T6 (Blue Pill).
 
 ## Description
 Toggles the onboard PC13 LED every 1000ms using STM32 HAL library.
